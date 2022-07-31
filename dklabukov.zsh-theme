@@ -1,5 +1,5 @@
 # dklabukov.zsh-theme
-# Repo: https://github.com/dklabukov/oh-my-zsh/oh-my-zsh/dklabukov.zsh-theme
+# Repo: https://github.com/dklabukov/oh-my-zsh/dklabukov.zsh-theme
 # based on: https://github.com/sebastianpulido/oh-my-zsh/blob/main/smoothmonkey.zsh-theme
 # based on: smoothmonkey.zsh-theme
 
